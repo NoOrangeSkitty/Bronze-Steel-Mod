@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "bronze_steel:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "bronze_steel:iron_dust",
+    "count": 1
+  }
+}

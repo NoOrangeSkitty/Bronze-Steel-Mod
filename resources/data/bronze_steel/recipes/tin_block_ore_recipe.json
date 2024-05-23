@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bronze_steel:tin_block"
+    }
+  ],
+  "result": {
+    "item": "bronze_steel:tin_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bronze_steel:coal_dust"
+    },
+    {
+      "item": "bronze_steel:iron_dust"
+    },
+    {
+      "item": "bronze_steel:iron_dust"
+    }
+  ],
+  "result": {
+    "item": "bronze_steel:steel_dust",
+    "count": 1
+  }
+}

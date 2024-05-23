@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bronze_steel:tin_block",
+    "bronze_steel:tin_ore",
+    "bronze_steel:bronze_block"
+  ]
+}

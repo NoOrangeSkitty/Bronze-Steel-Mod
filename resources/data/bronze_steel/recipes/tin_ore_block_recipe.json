@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "1": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "2": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "3": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "4": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "5": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "6": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "7": {
+      "item": "bronze_steel:tin_ingot"
+    },
+    "8": {
+      "item": "bronze_steel:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "bronze_steel:tin_block",
+    "count": 1
+  }
+}

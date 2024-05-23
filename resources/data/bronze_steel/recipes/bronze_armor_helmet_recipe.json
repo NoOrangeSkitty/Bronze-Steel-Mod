@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "1": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "2": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "3": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "5": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    }
+  },
+  "result": {
+    "item": "bronze_steel:bronze_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bronze_steel:tin_ore"
+  },
+  "result": "bronze_steel:tin_ingot"
+}

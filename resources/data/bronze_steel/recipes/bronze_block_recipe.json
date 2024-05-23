@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "1": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "2": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "3": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "4": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "5": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "6": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "7": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    },
+    "8": {
+      "item": "bronze_steel:bronze_ingot_bs"
+    }
+  },
+  "result": {
+    "item": "bronze_steel:bronze_block",
+    "count": 1
+  }
+}

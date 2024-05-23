@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:coals"
+    },
+    {
+      "item": "bronze_steel:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "bronze_steel:coal_dust",
+    "count": 1
+  }
+}
